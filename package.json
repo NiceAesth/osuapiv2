@@ -1,0 +1,33 @@
+{
+  "name": "osuapiv2",
+  "version": "1.0.0",
+  "description": "This is a work-in-progress Node.js wrapper for the osu! v2 API. Keep in mind that it may be unstable as the v2 API is still under development.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiceAesth/osuapiv2.git"
+  },
+  "keywords": [
+    "osu",
+    "api",
+    "wrapper",
+    "osu!",
+    "v2",
+    "node",
+    "js"
+  ],
+  "author": "Nice Aesthetics <nice@aesth.dev> (https://aesth.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NiceAesth/osuapiv2/issues"
+  },
+  "homepage": "https://github.com/NiceAesth/osuapiv2#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
