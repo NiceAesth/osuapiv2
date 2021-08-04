@@ -69,7 +69,7 @@ class UserGradeCounts {
         this.S = data["s"];
         this.SH = data["sh"];
         this.SS = data["ss"];
-        this.ssh = data["ssh"];
+        this.SSH = data["ssh"];
     }
 }
 
